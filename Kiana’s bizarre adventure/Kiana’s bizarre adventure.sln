@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{18DD6B8A-294D-44AA-ACD7-9587CB5DCCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI", "UnityEditor.UI.csproj", "{DDA10A20-2E85-82F7-8D5D-D6974584108B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DD6B8A-294D-44AA-ACD7-9587CB5DCCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DD6B8A-294D-44AA-ACD7-9587CB5DCCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DD6B8A-294D-44AA-ACD7-9587CB5DCCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DD6B8A-294D-44AA-ACD7-9587CB5DCCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA10A20-2E85-82F7-8D5D-D6974584108B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA10A20-2E85-82F7-8D5D-D6974584108B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA10A20-2E85-82F7-8D5D-D6974584108B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA10A20-2E85-82F7-8D5D-D6974584108B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
